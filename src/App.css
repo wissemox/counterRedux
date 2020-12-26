@@ -1,0 +1,42 @@
+.ahlabik { 
+  background-color: blue;
+}
+.manu { 
+  display: flex;
+  background-color: #585858;
+  color: white;
+}
+.menu0 { 
+  display: flex;
+  
+}
+.menu0 p {
+  font-size: 18px;
+  margin-left: 30px;
+  
+}
+#ahla { 
+  padding-left: 900px;
+}
+.ahlabik05 { 
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.adz { 
+  background-color: #585858;
+  color: white;
+  width: 180px;
+  margin-left: 50px;
+}
+.password p{ 
+  margin-left: 50px;
+}
+.usrename p { 
+  margin-left: 50px;
+}
+.adz input {
+  border: none;
+  border-radius: 10px;
+  height: 20px;
+}
